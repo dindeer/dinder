@@ -1,12 +1,13 @@
 var gather;
 function preload()
 {
-   gather= loadJSON("studen_data.json");
+   gather= loadJSON("webscrapping/student_content2020.json");
+
 
 }
   function setup()
   {
     noCanvas();
-    var data=gather.info[1].highschool;
+    var data=gather.content[1].HighSchool[1];
     createP(data);
   }

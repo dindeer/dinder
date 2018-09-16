@@ -1,1 +1,150 @@
-[{"name": "Aadesh Dhakal"}, {"name": "Akankshya Shrestha"}, {"name": "Aamod Paudel"}, {"name": "Aashish K.C."}, {"name": "Aawaj Shrestha"}, {"name": "Aayusha Paudel"}, {"name": "Abhisek Khanal"}, {"name": "Ajay Banstola"}, {"name": "Akriti Sharma"}, {"name": "Albin Lamichhane"}, {"name": "Alisha Jabegu"}, {"name": "Alon Shrestha"}, {"name": "Anuska Shrestha"}, {"name": "Avina Nakarmi"}, {"name": "Avinay Basnet"}, {"name": "Bandana Aryal"}, {"name": "Bashistha Ghimire"}, {"name": "Bigyan Paudel"}, {"name": "Biplov Khanal"}, {"name": "Bishesh Amatya"}, {"name": "Bishesh Katwal"}, {"name": "Brikshya Dhungana"}, {"name": "Ekta shrestha"}, {"name": "Isha Shrestha"}, {"name": "Jubindra KC"}, {"name": "Kishor Shrestha"}, {"name": "Mandip Prasai"}, {"name": "Maunta Rani Gautam"}, {"name": "Moon Shrestha"}, {"name": "Nabin Koirala"}, {"name": "Nischal Badal"}, {"name": "Nishan Shrestha"}, {"name": "Pranjal Pandey"}, {"name": "Rishitosh Acharya"}, {"name": "Riwaj Chalise"}, {"name": "Robin Tiwari"}, {"name": "Sagar Shrestha"}, {"name": "Seema Tamang"}, {"name": "Shrayash Shrestha"}, {"name": "Shreeya Regmi"}, {"name": "Shreya Sapkota"}, {"name": "Subham Dhakal"}, {"name": "Sudarshan Dhakal"}, {"name": "Sunita kunwar"}, {"name": "Supriya Dhakal"}, {"name": "Tejas Pant"}, {"name": "Pallavi Ghimire"}, {"name": "Nischal Rimal"}]
+{
+  "infor":
+
+[
+  {
+    "name": "Aadesh Dhakal"
+  },
+  {
+    "name": "Akankshya Shrestha"
+  },
+  {
+    "name": "Aamod Paudel"
+  },
+  {
+    "name": "Aashish K.C."
+  },
+  {
+    "name": "Aawaj Shrestha"
+  },
+  {
+    "name": "Aayusha Paudel"
+  },
+  {
+    "name": "Abhisek Khanal"
+  },
+  {
+    "name": "Ajay Banstola"
+  },
+  {
+    "name": "Akriti Sharma"
+  },
+  {
+    "name": "Albin Lamichhane"
+  },
+  {
+    "name": "Alisha Jabegu"
+  },
+  {
+    "name": "Alon Shrestha"
+  },
+  {
+    "name": "Anuska Shrestha"
+  },
+  {
+    "name": "Avina Nakarmi"
+  },
+  {
+    "name": "Avinay Basnet"
+  },
+  {
+    "name": "Bandana Aryal"
+  },
+  {
+    "name": "Bashistha Ghimire"
+  },
+  {
+    "name": "Bigyan Paudel"
+  },
+  {
+    "name": "Biplov Khanal"
+  },
+  {
+    "name": "Bishesh Amatya"
+  },
+  {
+    "name": "Bishesh Katwal"
+  },
+  {
+    "name": "Brikshya Dhungana"
+  },
+  {
+    "name": "Ekta shrestha"
+  },
+  {
+    "name": "Isha Shrestha"
+  },
+  {
+    "name": "Jubindra KC"
+  },
+  {
+    "name": "Kishor Shrestha"
+  },
+  {
+    "name": "Mandip Prasai"
+  },
+  {
+    "name": "Maunta Rani Gautam"
+  },
+  {
+    "name": "Moon Shrestha"
+  },
+  {
+    "name": "Nabin Koirala"
+  },
+  {
+    "name": "Nischal Badal"
+  },
+  {
+    "name": "Nishan Shrestha"
+  },
+  {
+    "name": "Pranjal Pandey"
+  },
+  {
+    "name": "Rishitosh Acharya"
+  },
+  {
+    "name": "Riwaj Chalise"
+  },
+  {
+    "name": "Robin Tiwari"
+  },
+  {
+    "name": "Sagar Shrestha"
+  },
+  {
+    "name": "Seema Tamang"
+  },
+  {
+    "name": "Shrayash Shrestha"
+  },
+  {
+    "name": "Shreeya Regmi"
+  },
+  {
+    "name": "Shreya Sapkota"
+  },
+  {
+    "name": "Subham Dhakal"
+  },
+  {
+    "name": "Sudarshan Dhakal"
+  },
+  {
+    "name": "Sunita kunwar"
+  },
+  {
+    "name": "Supriya Dhakal"
+  },
+  {
+    "name": "Tejas Pant"
+  },
+  {
+    "name": "Pallavi Ghimire"
+  },
+  {
+    "name": "Nischal Rimal"
+  }
+]
+}
