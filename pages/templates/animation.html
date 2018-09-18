@@ -1,0 +1,64 @@
+<!DOCTYPE html5>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loaders CSS</title>
+    <link rel="stylesheet" href="css/loaders.css ">
+    <style>
+    body{
+      background:#f87777;
+    }
+    .loader
+    {
+      position: fixed;
+      top : 50%;
+      left:50%;
+
+
+    }
+    .video{
+      position: fixed;
+      top : 20%;
+      left:20%;
+
+    }
+    </style>
+
+</head>
+<body
+<div class="loader">
+  <div class="loader-inner cube-transition">
+
+  </div>
+</div>
+<main class="video">
+
+<iframe width="1205" height="753" src="https://www.youtube.com/embed/EffPnse4WQs?autoplay=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</main>
+
+
+      <script>
+        $(document).ready(function(){
+          $('.video').hide();
+          $(window).on(
+            {
+              load: function()
+              {
+                $('.loader').hide();
+                //$('.video').show();
+              }
+            }
+          )
+        })
+      </script>
+
+
+
+
+  <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js></script>
+
+  <script src="css/loaders.css.js"></script>
+
+</body>
+</html>
